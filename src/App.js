@@ -31,7 +31,6 @@ class App extends Component {
         items: items,
         currentItem: { text:'', key:''}
       })
-
     }
   }
 
