@@ -3,7 +3,7 @@
 
 以npm啟動
 ```
-cd to-do-list
+cd React-To-Do-List-master
 
 npm start
 ```
